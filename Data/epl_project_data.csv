@@ -1,0 +1,761 @@
+MatchID,MatchWeek,Date,Team,Opponent,Venue,ShotsOnTarget,Shots,Goals
+2024-2025_Arsenal_Wolves,1,2024-08-17,Arsenal,Wolves,Home,6,18,2
+2024-2025_Arsenal_Wolves,1,2024-08-17,Wolves,Arsenal,Away,3,9,0
+2024-2025_Brentford_Crystal Palace,1,2024-08-18,Brentford,Crystal Palace,Home,5,9,2
+2024-2025_Brentford_Crystal Palace,1,2024-08-18,Crystal Palace,Brentford,Away,6,14,1
+2024-2025_Chelsea_Man City,1,2024-08-18,Chelsea,Man City,Home,3,10,0
+2024-2025_Chelsea_Man City,1,2024-08-18,Man City,Chelsea,Away,5,11,2
+2024-2025_Everton_Brighton,1,2024-08-17,Everton,Brighton,Home,1,9,0
+2024-2025_Everton_Brighton,1,2024-08-17,Brighton,Everton,Away,5,10,3
+2024-2025_Ipswich_Liverpool,1,2024-08-17,Ipswich,Liverpool,Home,2,7,0
+2024-2025_Ipswich_Liverpool,1,2024-08-17,Liverpool,Ipswich,Away,5,18,2
+2024-2025_Leicester_Tottenham,1,2024-08-19,Leicester,Tottenham,Home,3,7,1
+2024-2025_Leicester_Tottenham,1,2024-08-19,Tottenham,Leicester,Away,7,15,1
+2024-2025_Man United_Fulham,1,2024-08-16,Man United,Fulham,Home,5,14,1
+2024-2025_Man United_Fulham,1,2024-08-16,Fulham,Man United,Away,2,10,0
+2024-2025_Newcastle_Southampton,1,2024-08-17,Newcastle,Southampton,Home,1,3,1
+2024-2025_Newcastle_Southampton,1,2024-08-17,Southampton,Newcastle,Away,4,19,0
+2024-2025_Nott'm Forest_Bournemouth,1,2024-08-17,Nott'm Forest,Bournemouth,Home,8,14,1
+2024-2025_Nott'm Forest_Bournemouth,1,2024-08-17,Bournemouth,Nott'm Forest,Away,4,13,1
+2024-2025_West Ham_Aston Villa,1,2024-08-17,West Ham,Aston Villa,Home,3,14,1
+2024-2025_West Ham_Aston Villa,1,2024-08-17,Aston Villa,West Ham,Away,3,15,2
+2024-2025_Aston Villa_Arsenal,2,2024-08-24,Aston Villa,Arsenal,Home,3,11,0
+2024-2025_Aston Villa_Arsenal,2,2024-08-24,Arsenal,Aston Villa,Away,4,9,2
+2024-2025_Bournemouth_Newcastle,2,2024-08-25,Bournemouth,Newcastle,Home,4,16,1
+2024-2025_Bournemouth_Newcastle,2,2024-08-25,Newcastle,Bournemouth,Away,5,14,1
+2024-2025_Brighton_Man United,2,2024-08-24,Brighton,Man United,Home,5,14,2
+2024-2025_Brighton_Man United,2,2024-08-24,Man United,Brighton,Away,4,11,1
+2024-2025_Crystal Palace_West Ham,2,2024-08-24,Crystal Palace,West Ham,Home,2,14,0
+2024-2025_Crystal Palace_West Ham,2,2024-08-24,West Ham,Crystal Palace,Away,3,18,2
+2024-2025_Fulham_Leicester,2,2024-08-24,Fulham,Leicester,Home,6,18,2
+2024-2025_Fulham_Leicester,2,2024-08-24,Leicester,Fulham,Away,4,10,1
+2024-2025_Liverpool_Brentford,2,2024-08-25,Liverpool,Brentford,Home,8,19,2
+2024-2025_Liverpool_Brentford,2,2024-08-25,Brentford,Liverpool,Away,2,8,0
+2024-2025_Man City_Ipswich,2,2024-08-24,Man City,Ipswich,Home,5,14,4
+2024-2025_Man City_Ipswich,2,2024-08-24,Ipswich,Man City,Away,1,1,1
+2024-2025_Southampton_Nott'm Forest,2,2024-08-24,Southampton,Nott'm Forest,Home,1,5,0
+2024-2025_Southampton_Nott'm Forest,2,2024-08-24,Nott'm Forest,Southampton,Away,8,23,1
+2024-2025_Tottenham_Everton,2,2024-08-24,Tottenham,Everton,Home,7,13,4
+2024-2025_Tottenham_Everton,2,2024-08-24,Everton,Tottenham,Away,1,10,0
+2024-2025_Wolves_Chelsea,2,2024-08-25,Wolves,Chelsea,Home,4,12,2
+2024-2025_Wolves_Chelsea,2,2024-08-25,Chelsea,Wolves,Away,8,14,6
+2024-2025_Arsenal_Brighton,3,2024-08-31,Arsenal,Brighton,Home,7,11,1
+2024-2025_Arsenal_Brighton,3,2024-08-31,Brighton,Arsenal,Away,4,22,1
+2024-2025_Brentford_Southampton,3,2024-08-31,Brentford,Southampton,Home,7,20,3
+2024-2025_Brentford_Southampton,3,2024-08-31,Southampton,Brentford,Away,6,18,1
+2024-2025_Chelsea_Crystal Palace,3,2024-09-01,Chelsea,Crystal Palace,Home,7,13,1
+2024-2025_Chelsea_Crystal Palace,3,2024-09-01,Crystal Palace,Chelsea,Away,3,9,1
+2024-2025_Everton_Bournemouth,3,2024-08-31,Everton,Bournemouth,Home,8,18,2
+2024-2025_Everton_Bournemouth,3,2024-08-31,Bournemouth,Everton,Away,7,17,3
+2024-2025_Ipswich_Fulham,3,2024-08-31,Ipswich,Fulham,Home,4,11,1
+2024-2025_Ipswich_Fulham,3,2024-08-31,Fulham,Ipswich,Away,4,9,1
+2024-2025_Leicester_Aston Villa,3,2024-08-31,Leicester,Aston Villa,Home,3,9,1
+2024-2025_Leicester_Aston Villa,3,2024-08-31,Aston Villa,Leicester,Away,5,10,2
+2024-2025_Man United_Liverpool,3,2024-09-01,Man United,Liverpool,Home,3,8,0
+2024-2025_Man United_Liverpool,3,2024-09-01,Liverpool,Man United,Away,3,11,3
+2024-2025_Newcastle_Tottenham,3,2024-09-01,Newcastle,Tottenham,Home,3,9,2
+2024-2025_Newcastle_Tottenham,3,2024-09-01,Tottenham,Newcastle,Away,6,20,1
+2024-2025_Nott'm Forest_Wolves,3,2024-08-31,Nott'm Forest,Wolves,Home,5,16,1
+2024-2025_Nott'm Forest_Wolves,3,2024-08-31,Wolves,Nott'm Forest,Away,3,11,1
+2024-2025_West Ham_Man City,3,2024-08-31,West Ham,Man City,Home,2,10,1
+2024-2025_West Ham_Man City,3,2024-08-31,Man City,West Ham,Away,8,23,3
+2024-2025_Aston Villa_Everton,4,2024-09-14,Aston Villa,Everton,Home,8,17,3
+2024-2025_Aston Villa_Everton,4,2024-09-14,Everton,Aston Villa,Away,2,6,2
+2024-2025_Bournemouth_Chelsea,4,2024-09-14,Bournemouth,Chelsea,Home,4,10,0
+2024-2025_Bournemouth_Chelsea,4,2024-09-14,Chelsea,Bournemouth,Away,1,5,1
+2024-2025_Brighton_Ipswich,4,2024-09-14,Brighton,Ipswich,Home,6,21,0
+2024-2025_Brighton_Ipswich,4,2024-09-14,Ipswich,Brighton,Away,1,6,0
+2024-2025_Crystal Palace_Leicester,4,2024-09-14,Crystal Palace,Leicester,Home,4,20,2
+2024-2025_Crystal Palace_Leicester,4,2024-09-14,Leicester,Crystal Palace,Away,4,9,2
+2024-2025_Fulham_West Ham,4,2024-09-14,Fulham,West Ham,Home,5,21,1
+2024-2025_Fulham_West Ham,4,2024-09-14,West Ham,Fulham,Away,3,11,1
+2024-2025_Liverpool_Nott'm Forest,4,2024-09-14,Liverpool,Nott'm Forest,Home,5,15,0
+2024-2025_Liverpool_Nott'm Forest,4,2024-09-14,Nott'm Forest,Liverpool,Away,3,5,1
+2024-2025_Man City_Brentford,4,2024-09-14,Man City,Brentford,Home,7,18,2
+2024-2025_Man City_Brentford,4,2024-09-14,Brentford,Man City,Away,5,8,1
+2024-2025_Southampton_Man United,4,2024-09-14,Southampton,Man United,Home,4,6,0
+2024-2025_Southampton_Man United,4,2024-09-14,Man United,Southampton,Away,10,20,3
+2024-2025_Tottenham_Arsenal,4,2024-09-15,Tottenham,Arsenal,Home,5,15,0
+2024-2025_Tottenham_Arsenal,4,2024-09-15,Arsenal,Tottenham,Away,4,7,1
+2024-2025_Wolves_Newcastle,4,2024-09-15,Wolves,Newcastle,Home,5,12,1
+2024-2025_Wolves_Newcastle,4,2024-09-15,Newcastle,Wolves,Away,6,14,2
+2024-2025_Aston Villa_Wolves,5,2024-09-21,Aston Villa,Wolves,Home,4,9,3
+2024-2025_Aston Villa_Wolves,5,2024-09-21,Wolves,Aston Villa,Away,4,10,1
+2024-2025_Brighton_Nott'm Forest,5,2024-09-22,Brighton,Nott'm Forest,Home,3,14,2
+2024-2025_Brighton_Nott'm Forest,5,2024-09-22,Nott'm Forest,Brighton,Away,3,4,2
+2024-2025_Crystal Palace_Man United,5,2024-09-21,Crystal Palace,Man United,Home,4,9,0
+2024-2025_Crystal Palace_Man United,5,2024-09-21,Man United,Crystal Palace,Away,6,15,0
+2024-2025_Fulham_Newcastle,5,2024-09-21,Fulham,Newcastle,Home,11,22,3
+2024-2025_Fulham_Newcastle,5,2024-09-21,Newcastle,Fulham,Away,4,15,1
+2024-2025_Leicester_Everton,5,2024-09-21,Leicester,Everton,Home,2,12,1
+2024-2025_Leicester_Everton,5,2024-09-21,Everton,Leicester,Away,5,16,1
+2024-2025_Liverpool_Bournemouth,5,2024-09-21,Liverpool,Bournemouth,Home,13,19,3
+2024-2025_Liverpool_Bournemouth,5,2024-09-21,Bournemouth,Liverpool,Away,6,19,0
+2024-2025_Man City_Arsenal,5,2024-09-22,Man City,Arsenal,Home,11,33,2
+2024-2025_Man City_Arsenal,5,2024-09-22,Arsenal,Man City,Away,3,5,2
+2024-2025_Southampton_Ipswich,5,2024-09-21,Southampton,Ipswich,Home,3,11,1
+2024-2025_Southampton_Ipswich,5,2024-09-21,Ipswich,Southampton,Away,6,13,1
+2024-2025_Tottenham_Brentford,5,2024-09-21,Tottenham,Brentford,Home,10,23,3
+2024-2025_Tottenham_Brentford,5,2024-09-21,Brentford,Tottenham,Away,6,6,1
+2024-2025_West Ham_Chelsea,5,2024-09-21,West Ham,Chelsea,Home,7,15,0
+2024-2025_West Ham_Chelsea,5,2024-09-21,Chelsea,West Ham,Away,5,12,3
+2024-2025_Arsenal_Leicester,6,2024-09-28,Arsenal,Leicester,Home,16,36,4
+2024-2025_Arsenal_Leicester,6,2024-09-28,Leicester,Arsenal,Away,3,5,2
+2024-2025_Bournemouth_Southampton,6,2024-09-30,Bournemouth,Southampton,Home,6,14,3
+2024-2025_Bournemouth_Southampton,6,2024-09-30,Southampton,Bournemouth,Away,3,9,1
+2024-2025_Brentford_West Ham,6,2024-09-28,Brentford,West Ham,Home,3,8,1
+2024-2025_Brentford_West Ham,6,2024-09-28,West Ham,Brentford,Away,3,19,1
+2024-2025_Chelsea_Brighton,6,2024-09-28,Chelsea,Brighton,Home,7,15,4
+2024-2025_Chelsea_Brighton,6,2024-09-28,Brighton,Chelsea,Away,5,15,2
+2024-2025_Everton_Crystal Palace,6,2024-09-28,Everton,Crystal Palace,Home,2,8,2
+2024-2025_Everton_Crystal Palace,6,2024-09-28,Crystal Palace,Everton,Away,5,17,1
+2024-2025_Ipswich_Aston Villa,6,2024-09-29,Ipswich,Aston Villa,Home,5,15,2
+2024-2025_Ipswich_Aston Villa,6,2024-09-29,Aston Villa,Ipswich,Away,3,7,2
+2024-2025_Man United_Tottenham,6,2024-09-29,Man United,Tottenham,Home,2,11,0
+2024-2025_Man United_Tottenham,6,2024-09-29,Tottenham,Man United,Away,10,24,3
+2024-2025_Newcastle_Man City,6,2024-09-28,Newcastle,Man City,Home,4,11,1
+2024-2025_Newcastle_Man City,6,2024-09-28,Man City,Newcastle,Away,6,16,1
+2024-2025_Nott'm Forest_Fulham,6,2024-09-28,Nott'm Forest,Fulham,Home,1,11,0
+2024-2025_Nott'm Forest_Fulham,6,2024-09-28,Fulham,Nott'm Forest,Away,2,14,1
+2024-2025_Wolves_Liverpool,6,2024-09-28,Wolves,Liverpool,Home,3,8,1
+2024-2025_Wolves_Liverpool,6,2024-09-28,Liverpool,Wolves,Away,6,10,2
+2024-2025_Arsenal_Southampton,7,2024-10-05,Arsenal,Southampton,Home,6,29,3
+2024-2025_Arsenal_Southampton,7,2024-10-05,Southampton,Arsenal,Away,2,8,1
+2024-2025_Aston Villa_Man United,7,2024-10-06,Aston Villa,Man United,Home,1,11,0
+2024-2025_Aston Villa_Man United,7,2024-10-06,Man United,Aston Villa,Away,4,10,0
+2024-2025_Brentford_Wolves,7,2024-10-05,Brentford,Wolves,Home,12,19,5
+2024-2025_Brentford_Wolves,7,2024-10-05,Wolves,Brentford,Away,6,17,3
+2024-2025_Brighton_Tottenham,7,2024-10-06,Brighton,Tottenham,Home,4,11,3
+2024-2025_Brighton_Tottenham,7,2024-10-06,Tottenham,Brighton,Away,3,13,2
+2024-2025_Chelsea_Nott'm Forest,7,2024-10-06,Chelsea,Nott'm Forest,Home,8,22,1
+2024-2025_Chelsea_Nott'm Forest,7,2024-10-06,Nott'm Forest,Chelsea,Away,9,16,1
+2024-2025_Crystal Palace_Liverpool,7,2024-10-05,Crystal Palace,Liverpool,Home,5,9,0
+2024-2025_Crystal Palace_Liverpool,7,2024-10-05,Liverpool,Crystal Palace,Away,4,16,1
+2024-2025_Everton_Newcastle,7,2024-10-05,Everton,Newcastle,Home,2,8,0
+2024-2025_Everton_Newcastle,7,2024-10-05,Newcastle,Everton,Away,3,14,0
+2024-2025_Leicester_Bournemouth,7,2024-10-05,Leicester,Bournemouth,Home,2,6,1
+2024-2025_Leicester_Bournemouth,7,2024-10-05,Bournemouth,Leicester,Away,2,17,0
+2024-2025_Man City_Fulham,7,2024-10-05,Man City,Fulham,Home,7,20,3
+2024-2025_Man City_Fulham,7,2024-10-05,Fulham,Man City,Away,4,11,2
+2024-2025_West Ham_Ipswich,7,2024-10-05,West Ham,Ipswich,Home,13,23,4
+2024-2025_West Ham_Ipswich,7,2024-10-05,Ipswich,West Ham,Away,2,9,1
+2024-2025_Bournemouth_Arsenal,8,2024-10-19,Bournemouth,Arsenal,Home,4,13,2
+2024-2025_Bournemouth_Arsenal,8,2024-10-19,Arsenal,Bournemouth,Away,1,6,0
+2024-2025_Fulham_Aston Villa,8,2024-10-19,Fulham,Aston Villa,Home,4,10,1
+2024-2025_Fulham_Aston Villa,8,2024-10-19,Aston Villa,Fulham,Away,5,14,3
+2024-2025_Ipswich_Everton,8,2024-10-19,Ipswich,Everton,Home,2,13,0
+2024-2025_Ipswich_Everton,8,2024-10-19,Everton,Ipswich,Away,8,11,2
+2024-2025_Liverpool_Chelsea,8,2024-10-20,Liverpool,Chelsea,Home,5,9,2
+2024-2025_Liverpool_Chelsea,8,2024-10-20,Chelsea,Liverpool,Away,2,12,1
+2024-2025_Man United_Brentford,8,2024-10-19,Man United,Brentford,Home,11,23,2
+2024-2025_Man United_Brentford,8,2024-10-19,Brentford,Man United,Away,2,8,1
+2024-2025_Newcastle_Brighton,8,2024-10-19,Newcastle,Brighton,Home,6,21,0
+2024-2025_Newcastle_Brighton,8,2024-10-19,Brighton,Newcastle,Away,5,10,1
+2024-2025_Nott'm Forest_Crystal Palace,8,2024-10-21,Nott'm Forest,Crystal Palace,Home,6,20,1
+2024-2025_Nott'm Forest_Crystal Palace,8,2024-10-21,Crystal Palace,Nott'm Forest,Away,7,20,0
+2024-2025_Southampton_Leicester,8,2024-10-19,Southampton,Leicester,Home,7,14,2
+2024-2025_Southampton_Leicester,8,2024-10-19,Leicester,Southampton,Away,4,18,3
+2024-2025_Tottenham_West Ham,8,2024-10-19,Tottenham,West Ham,Home,7,22,4
+2024-2025_Tottenham_West Ham,8,2024-10-19,West Ham,Tottenham,Away,4,11,1
+2024-2025_Wolves_Man City,8,2024-10-20,Wolves,Man City,Home,2,3,1
+2024-2025_Wolves_Man City,8,2024-10-20,Man City,Wolves,Away,7,22,2
+2024-2025_Arsenal_Liverpool,9,2024-10-27,Arsenal,Liverpool,Home,3,9,2
+2024-2025_Arsenal_Liverpool,9,2024-10-27,Liverpool,Arsenal,Away,4,9,2
+2024-2025_Aston Villa_Bournemouth,9,2024-10-26,Aston Villa,Bournemouth,Home,8,18,1
+2024-2025_Aston Villa_Bournemouth,9,2024-10-26,Bournemouth,Aston Villa,Away,3,11,1
+2024-2025_Brentford_Ipswich,9,2024-10-26,Brentford,Ipswich,Home,9,20,4
+2024-2025_Brentford_Ipswich,9,2024-10-26,Ipswich,Brentford,Away,5,11,3
+2024-2025_Brighton_Wolves,9,2024-10-26,Brighton,Wolves,Home,6,19,2
+2024-2025_Brighton_Wolves,9,2024-10-26,Wolves,Brighton,Away,7,14,2
+2024-2025_Chelsea_Newcastle,9,2024-10-27,Chelsea,Newcastle,Home,7,17,2
+2024-2025_Chelsea_Newcastle,9,2024-10-27,Newcastle,Chelsea,Away,3,11,1
+2024-2025_Crystal Palace_Tottenham,9,2024-10-27,Crystal Palace,Tottenham,Home,6,14,1
+2024-2025_Crystal Palace_Tottenham,9,2024-10-27,Tottenham,Crystal Palace,Away,3,11,0
+2024-2025_Everton_Fulham,9,2024-10-26,Everton,Fulham,Home,5,10,1
+2024-2025_Everton_Fulham,9,2024-10-26,Fulham,Everton,Away,3,14,1
+2024-2025_Leicester_Nott'm Forest,9,2024-10-25,Leicester,Nott'm Forest,Home,1,11,1
+2024-2025_Leicester_Nott'm Forest,9,2024-10-25,Nott'm Forest,Leicester,Away,5,20,3
+2024-2025_Man City_Southampton,9,2024-10-26,Man City,Southampton,Home,8,22,1
+2024-2025_Man City_Southampton,9,2024-10-26,Southampton,Man City,Away,2,5,0
+2024-2025_West Ham_Man United,9,2024-10-27,West Ham,Man United,Home,3,12,2
+2024-2025_West Ham_Man United,9,2024-10-27,Man United,West Ham,Away,5,18,1
+2024-2025_Bournemouth_Man City,10,2024-11-02,Bournemouth,Man City,Home,6,12,2
+2024-2025_Bournemouth_Man City,10,2024-11-02,Man City,Bournemouth,Away,4,18,1
+2024-2025_Fulham_Brentford,10,2024-11-04,Fulham,Brentford,Home,12,26,2
+2024-2025_Fulham_Brentford,10,2024-11-04,Brentford,Fulham,Away,2,5,1
+2024-2025_Ipswich_Leicester,10,2024-11-02,Ipswich,Leicester,Home,2,14,1
+2024-2025_Ipswich_Leicester,10,2024-11-02,Leicester,Ipswich,Away,6,20,1
+2024-2025_Liverpool_Brighton,10,2024-11-02,Liverpool,Brighton,Home,8,16,2
+2024-2025_Liverpool_Brighton,10,2024-11-02,Brighton,Liverpool,Away,5,13,1
+2024-2025_Man United_Chelsea,10,2024-11-03,Man United,Chelsea,Home,4,11,1
+2024-2025_Man United_Chelsea,10,2024-11-03,Chelsea,Man United,Away,3,12,1
+2024-2025_Newcastle_Arsenal,10,2024-11-02,Newcastle,Arsenal,Home,4,9,1
+2024-2025_Newcastle_Arsenal,10,2024-11-02,Arsenal,Newcastle,Away,1,10,0
+2024-2025_Nott'm Forest_West Ham,10,2024-11-02,Nott'm Forest,West Ham,Home,6,19,3
+2024-2025_Nott'm Forest_West Ham,10,2024-11-02,West Ham,Nott'm Forest,Away,2,4,0
+2024-2025_Southampton_Everton,10,2024-11-02,Southampton,Everton,Home,2,9,1
+2024-2025_Southampton_Everton,10,2024-11-02,Everton,Southampton,Away,5,16,0
+2024-2025_Tottenham_Aston Villa,10,2024-11-03,Tottenham,Aston Villa,Home,6,16,4
+2024-2025_Tottenham_Aston Villa,10,2024-11-03,Aston Villa,Tottenham,Away,1,12,1
+2024-2025_Wolves_Crystal Palace,10,2024-11-02,Wolves,Crystal Palace,Home,6,11,2
+2024-2025_Wolves_Crystal Palace,10,2024-11-02,Crystal Palace,Wolves,Away,7,19,2
+2024-2025_Brentford_Bournemouth,11,2024-11-09,Brentford,Bournemouth,Home,6,12,3
+2024-2025_Brentford_Bournemouth,11,2024-11-09,Bournemouth,Brentford,Away,3,15,2
+2024-2025_Brighton_Man City,11,2024-11-09,Brighton,Man City,Home,4,10,2
+2024-2025_Brighton_Man City,11,2024-11-09,Man City,Brighton,Away,6,15,1
+2024-2025_Chelsea_Arsenal,11,2024-11-10,Chelsea,Arsenal,Home,3,17,1
+2024-2025_Chelsea_Arsenal,11,2024-11-10,Arsenal,Chelsea,Away,3,13,1
+2024-2025_Crystal Palace_Fulham,11,2024-11-09,Crystal Palace,Fulham,Home,5,13,0
+2024-2025_Crystal Palace_Fulham,11,2024-11-09,Fulham,Crystal Palace,Away,7,17,2
+2024-2025_Liverpool_Aston Villa,11,2024-11-09,Liverpool,Aston Villa,Home,5,14,2
+2024-2025_Liverpool_Aston Villa,11,2024-11-09,Aston Villa,Liverpool,Away,2,12,0
+2024-2025_Man United_Leicester,11,2024-11-10,Man United,Leicester,Home,3,13,3
+2024-2025_Man United_Leicester,11,2024-11-10,Leicester,Man United,Away,5,6,0
+2024-2025_Nott'm Forest_Newcastle,11,2024-11-10,Nott'm Forest,Newcastle,Home,3,9,1
+2024-2025_Nott'm Forest_Newcastle,11,2024-11-10,Newcastle,Nott'm Forest,Away,6,17,3
+2024-2025_Tottenham_Ipswich,11,2024-11-10,Tottenham,Ipswich,Home,5,17,1
+2024-2025_Tottenham_Ipswich,11,2024-11-10,Ipswich,Tottenham,Away,3,8,2
+2024-2025_West Ham_Everton,11,2024-11-09,West Ham,Everton,Home,6,11,0
+2024-2025_West Ham_Everton,11,2024-11-09,Everton,West Ham,Away,4,18,0
+2024-2025_Wolves_Southampton,11,2024-11-09,Wolves,Southampton,Home,4,8,2
+2024-2025_Wolves_Southampton,11,2024-11-09,Southampton,Wolves,Away,0,9,0
+2024-2025_Arsenal_Nott'm Forest,12,2024-11-23,Arsenal,Nott'm Forest,Home,7,19,3
+2024-2025_Arsenal_Nott'm Forest,12,2024-11-23,Nott'm Forest,Arsenal,Away,0,7,0
+2024-2025_Aston Villa_Crystal Palace,12,2024-11-23,Aston Villa,Crystal Palace,Home,5,17,2
+2024-2025_Aston Villa_Crystal Palace,12,2024-11-23,Crystal Palace,Aston Villa,Away,6,13,2
+2024-2025_Bournemouth_Brighton,12,2024-11-23,Bournemouth,Brighton,Home,5,19,1
+2024-2025_Bournemouth_Brighton,12,2024-11-23,Brighton,Bournemouth,Away,4,6,2
+2024-2025_Everton_Brentford,12,2024-11-23,Everton,Brentford,Home,5,27,0
+2024-2025_Everton_Brentford,12,2024-11-23,Brentford,Everton,Away,2,9,0
+2024-2025_Fulham_Wolves,12,2024-11-23,Fulham,Wolves,Home,3,10,1
+2024-2025_Fulham_Wolves,12,2024-11-23,Wolves,Fulham,Away,5,10,4
+2024-2025_Ipswich_Man United,12,2024-11-24,Ipswich,Man United,Home,6,11,1
+2024-2025_Ipswich_Man United,12,2024-11-24,Man United,Ipswich,Away,4,11,1
+2024-2025_Leicester_Chelsea,12,2024-11-23,Leicester,Chelsea,Home,1,4,1
+2024-2025_Leicester_Chelsea,12,2024-11-23,Chelsea,Leicester,Away,7,16,2
+2024-2025_Man City_Tottenham,12,2024-11-23,Man City,Tottenham,Home,5,23,0
+2024-2025_Man City_Tottenham,12,2024-11-23,Tottenham,Man City,Away,7,9,4
+2024-2025_Newcastle_West Ham,12,2024-11-25,Newcastle,West Ham,Home,2,18,0
+2024-2025_Newcastle_West Ham,12,2024-11-25,West Ham,Newcastle,Away,6,15,2
+2024-2025_Southampton_Liverpool,12,2024-11-24,Southampton,Liverpool,Home,5,7,2
+2024-2025_Southampton_Liverpool,12,2024-11-24,Liverpool,Southampton,Away,11,27,3
+2024-2025_Brentford_Leicester,13,2024-11-30,Brentford,Leicester,Home,6,13,4
+2024-2025_Brentford_Leicester,13,2024-11-30,Leicester,Brentford,Away,3,7,1
+2024-2025_Brighton_Southampton,13,2024-11-29,Brighton,Southampton,Home,5,22,1
+2024-2025_Brighton_Southampton,13,2024-11-29,Southampton,Brighton,Away,2,10,1
+2024-2025_Chelsea_Aston Villa,13,2024-12-01,Chelsea,Aston Villa,Home,8,17,3
+2024-2025_Chelsea_Aston Villa,13,2024-12-01,Aston Villa,Chelsea,Away,4,10,0
+2024-2025_Crystal Palace_Newcastle,13,2024-11-30,Crystal Palace,Newcastle,Home,4,16,1
+2024-2025_Crystal Palace_Newcastle,13,2024-11-30,Newcastle,Crystal Palace,Away,0,1,1
+2024-2025_Liverpool_Man City,13,2024-12-01,Liverpool,Man City,Home,7,18,2
+2024-2025_Liverpool_Man City,13,2024-12-01,Man City,Liverpool,Away,2,8,0
+2024-2025_Man United_Everton,13,2024-12-01,Man United,Everton,Home,5,11,4
+2024-2025_Man United_Everton,13,2024-12-01,Everton,Man United,Away,2,8,0
+2024-2025_Nott'm Forest_Ipswich,13,2024-11-30,Nott'm Forest,Ipswich,Home,5,12,1
+2024-2025_Nott'm Forest_Ipswich,13,2024-11-30,Ipswich,Nott'm Forest,Away,3,7,0
+2024-2025_Tottenham_Fulham,13,2024-12-01,Tottenham,Fulham,Home,3,8,1
+2024-2025_Tottenham_Fulham,13,2024-12-01,Fulham,Tottenham,Away,6,14,1
+2024-2025_West Ham_Arsenal,13,2024-11-30,West Ham,Arsenal,Home,5,12,2
+2024-2025_West Ham_Arsenal,13,2024-11-30,Arsenal,West Ham,Away,7,16,5
+2024-2025_Wolves_Bournemouth,13,2024-11-30,Wolves,Bournemouth,Home,3,10,2
+2024-2025_Wolves_Bournemouth,13,2024-11-30,Bournemouth,Wolves,Away,8,12,4
+2024-2025_Arsenal_Man United,14,2024-12-04,Arsenal,Man United,Home,6,14,2
+2024-2025_Arsenal_Man United,14,2024-12-04,Man United,Arsenal,Away,2,5,0
+2024-2025_Aston Villa_Brentford,14,2024-12-04,Aston Villa,Brentford,Home,10,20,3
+2024-2025_Aston Villa_Brentford,14,2024-12-04,Brentford,Aston Villa,Away,1,9,1
+2024-2025_Bournemouth_Tottenham,14,2024-12-05,Bournemouth,Tottenham,Home,8,21,1
+2024-2025_Bournemouth_Tottenham,14,2024-12-05,Tottenham,Bournemouth,Away,4,12,0
+2024-2025_Everton_Wolves,14,2024-12-04,Everton,Wolves,Home,4,13,4
+2024-2025_Everton_Wolves,14,2024-12-04,Wolves,Everton,Away,2,6,0
+2024-2025_Fulham_Brighton,14,2024-12-05,Fulham,Brighton,Home,2,6,3
+2024-2025_Fulham_Brighton,14,2024-12-05,Brighton,Fulham,Away,3,13,1
+2024-2025_Ipswich_Crystal Palace,14,2024-12-03,Ipswich,Crystal Palace,Home,2,9,0
+2024-2025_Ipswich_Crystal Palace,14,2024-12-03,Crystal Palace,Ipswich,Away,3,13,1
+2024-2025_Leicester_West Ham,14,2024-12-03,Leicester,West Ham,Home,6,8,3
+2024-2025_Leicester_West Ham,14,2024-12-03,West Ham,Leicester,Away,10,31,1
+2024-2025_Man City_Nott'm Forest,14,2024-12-04,Man City,Nott'm Forest,Home,7,17,3
+2024-2025_Man City_Nott'm Forest,14,2024-12-04,Nott'm Forest,Man City,Away,3,12,0
+2024-2025_Newcastle_Liverpool,14,2024-12-04,Newcastle,Liverpool,Home,6,17,3
+2024-2025_Newcastle_Liverpool,14,2024-12-04,Liverpool,Newcastle,Away,5,16,3
+2024-2025_Southampton_Chelsea,14,2024-12-04,Southampton,Chelsea,Home,4,6,1
+2024-2025_Southampton_Chelsea,14,2024-12-04,Chelsea,Southampton,Away,13,26,5
+2024-2025_Aston Villa_Southampton,15,2024-12-07,Aston Villa,Southampton,Home,5,18,1
+2024-2025_Aston Villa_Southampton,15,2024-12-07,Southampton,Aston Villa,Away,0,4,0
+2024-2025_Brentford_Newcastle,15,2024-12-07,Brentford,Newcastle,Home,8,11,4
+2024-2025_Brentford_Newcastle,15,2024-12-07,Newcastle,Brentford,Away,3,16,2
+2024-2025_Crystal Palace_Man City,15,2024-12-07,Crystal Palace,Man City,Home,3,12,2
+2024-2025_Crystal Palace_Man City,15,2024-12-07,Man City,Crystal Palace,Away,4,12,2
+2024-2025_Everton_Liverpool,15,2025-02-12,Everton,Liverpool,Home,3,10,2
+2024-2025_Everton_Liverpool,15,2025-02-12,Liverpool,Everton,Away,4,6,2
+2024-2025_Fulham_Arsenal,15,2024-12-08,Fulham,Arsenal,Home,2,2,1
+2024-2025_Fulham_Arsenal,15,2024-12-08,Arsenal,Fulham,Away,4,12,1
+2024-2025_Ipswich_Bournemouth,15,2024-12-08,Ipswich,Bournemouth,Home,5,18,1
+2024-2025_Ipswich_Bournemouth,15,2024-12-08,Bournemouth,Ipswich,Away,6,22,2
+2024-2025_Leicester_Brighton,15,2024-12-08,Leicester,Brighton,Home,3,10,2
+2024-2025_Leicester_Brighton,15,2024-12-08,Brighton,Leicester,Away,7,16,2
+2024-2025_Man United_Nott'm Forest,15,2024-12-07,Man United,Nott'm Forest,Home,7,17,2
+2024-2025_Man United_Nott'm Forest,15,2024-12-07,Nott'm Forest,Man United,Away,3,11,3
+2024-2025_Tottenham_Chelsea,15,2024-12-08,Tottenham,Chelsea,Home,5,13,3
+2024-2025_Tottenham_Chelsea,15,2024-12-08,Chelsea,Tottenham,Away,8,17,4
+2024-2025_West Ham_Wolves,15,2024-12-09,West Ham,Wolves,Home,4,19,2
+2024-2025_West Ham_Wolves,15,2024-12-09,Wolves,West Ham,Away,5,19,1
+2024-2025_Arsenal_Everton,16,2024-12-14,Arsenal,Everton,Home,5,13,0
+2024-2025_Arsenal_Everton,16,2024-12-14,Everton,Arsenal,Away,0,2,0
+2024-2025_Bournemouth_West Ham,16,2024-12-16,Bournemouth,West Ham,Home,9,29,1
+2024-2025_Bournemouth_West Ham,16,2024-12-16,West Ham,Bournemouth,Away,3,16,1
+2024-2025_Brighton_Crystal Palace,16,2024-12-15,Brighton,Crystal Palace,Home,5,17,1
+2024-2025_Brighton_Crystal Palace,16,2024-12-15,Crystal Palace,Brighton,Away,5,13,3
+2024-2025_Chelsea_Brentford,16,2024-12-15,Chelsea,Brentford,Home,8,26,2
+2024-2025_Chelsea_Brentford,16,2024-12-15,Brentford,Chelsea,Away,4,9,1
+2024-2025_Liverpool_Fulham,16,2024-12-14,Liverpool,Fulham,Home,4,16,2
+2024-2025_Liverpool_Fulham,16,2024-12-14,Fulham,Liverpool,Away,3,12,2
+2024-2025_Man City_Man United,16,2024-12-15,Man City,Man United,Home,3,10,1
+2024-2025_Man City_Man United,16,2024-12-15,Man United,Man City,Away,3,10,2
+2024-2025_Newcastle_Leicester,16,2024-12-14,Newcastle,Leicester,Home,11,27,4
+2024-2025_Newcastle_Leicester,16,2024-12-14,Leicester,Newcastle,Away,1,4,0
+2024-2025_Nott'm Forest_Aston Villa,16,2024-12-14,Nott'm Forest,Aston Villa,Home,6,17,2
+2024-2025_Nott'm Forest_Aston Villa,16,2024-12-14,Aston Villa,Nott'm Forest,Away,2,8,1
+2024-2025_Southampton_Tottenham,16,2024-12-15,Southampton,Tottenham,Home,3,9,0
+2024-2025_Southampton_Tottenham,16,2024-12-15,Tottenham,Southampton,Away,9,18,5
+2024-2025_Wolves_Ipswich,16,2024-12-14,Wolves,Ipswich,Home,6,16,1
+2024-2025_Wolves_Ipswich,16,2024-12-14,Ipswich,Wolves,Away,5,10,2
+2024-2025_Aston Villa_Man City,17,2024-12-21,Aston Villa,Man City,Home,6,11,2
+2024-2025_Aston Villa_Man City,17,2024-12-21,Man City,Aston Villa,Away,6,12,1
+2024-2025_Brentford_Nott'm Forest,17,2024-12-21,Brentford,Nott'm Forest,Home,3,7,0
+2024-2025_Brentford_Nott'm Forest,17,2024-12-21,Nott'm Forest,Brentford,Away,6,10,2
+2024-2025_Crystal Palace_Arsenal,17,2024-12-21,Crystal Palace,Arsenal,Home,6,15,1
+2024-2025_Crystal Palace_Arsenal,17,2024-12-21,Arsenal,Crystal Palace,Away,6,14,5
+2024-2025_Everton_Chelsea,17,2024-12-22,Everton,Chelsea,Home,4,5,0
+2024-2025_Everton_Chelsea,17,2024-12-22,Chelsea,Everton,Away,5,12,0
+2024-2025_Fulham_Southampton,17,2024-12-22,Fulham,Southampton,Home,5,16,0
+2024-2025_Fulham_Southampton,17,2024-12-22,Southampton,Fulham,Away,1,5,0
+2024-2025_Ipswich_Newcastle,17,2024-12-21,Ipswich,Newcastle,Home,2,10,0
+2024-2025_Ipswich_Newcastle,17,2024-12-21,Newcastle,Ipswich,Away,7,15,4
+2024-2025_Leicester_Wolves,17,2024-12-22,Leicester,Wolves,Home,5,9,0
+2024-2025_Leicester_Wolves,17,2024-12-22,Wolves,Leicester,Away,4,8,3
+2024-2025_Man United_Bournemouth,17,2024-12-22,Man United,Bournemouth,Home,7,23,0
+2024-2025_Man United_Bournemouth,17,2024-12-22,Bournemouth,Man United,Away,5,10,3
+2024-2025_Tottenham_Liverpool,17,2024-12-22,Tottenham,Liverpool,Home,5,9,3
+2024-2025_Tottenham_Liverpool,17,2024-12-22,Liverpool,Tottenham,Away,12,24,6
+2024-2025_West Ham_Brighton,17,2024-12-21,West Ham,Brighton,Home,4,11,1
+2024-2025_West Ham_Brighton,17,2024-12-21,Brighton,West Ham,Away,6,12,1
+2024-2025_Arsenal_Ipswich,18,2024-12-27,Arsenal,Ipswich,Home,5,13,1
+2024-2025_Arsenal_Ipswich,18,2024-12-27,Ipswich,Arsenal,Away,0,3,0
+2024-2025_Bournemouth_Crystal Palace,18,2024-12-26,Bournemouth,Crystal Palace,Home,4,18,0
+2024-2025_Bournemouth_Crystal Palace,18,2024-12-26,Crystal Palace,Bournemouth,Away,4,10,0
+2024-2025_Brighton_Brentford,18,2024-12-27,Brighton,Brentford,Home,7,24,0
+2024-2025_Brighton_Brentford,18,2024-12-27,Brentford,Brighton,Away,3,8,0
+2024-2025_Chelsea_Fulham,18,2024-12-26,Chelsea,Fulham,Home,8,12,1
+2024-2025_Chelsea_Fulham,18,2024-12-26,Fulham,Chelsea,Away,7,14,2
+2024-2025_Liverpool_Leicester,18,2024-12-26,Liverpool,Leicester,Home,7,19,3
+2024-2025_Liverpool_Leicester,18,2024-12-26,Leicester,Liverpool,Away,1,4,1
+2024-2025_Man City_Everton,18,2024-12-26,Man City,Everton,Home,5,24,1
+2024-2025_Man City_Everton,18,2024-12-26,Everton,Man City,Away,3,8,1
+2024-2025_Newcastle_Aston Villa,18,2024-12-26,Newcastle,Aston Villa,Home,8,22,3
+2024-2025_Newcastle_Aston Villa,18,2024-12-26,Aston Villa,Newcastle,Away,1,4,0
+2024-2025_Nott'm Forest_Tottenham,18,2024-12-26,Nott'm Forest,Tottenham,Home,3,10,1
+2024-2025_Nott'm Forest_Tottenham,18,2024-12-26,Tottenham,Nott'm Forest,Away,4,13,0
+2024-2025_Southampton_West Ham,18,2024-12-26,Southampton,West Ham,Home,5,18,0
+2024-2025_Southampton_West Ham,18,2024-12-26,West Ham,Southampton,Away,2,16,1
+2024-2025_Wolves_Man United,18,2024-12-26,Wolves,Man United,Home,4,7,2
+2024-2025_Wolves_Man United,18,2024-12-26,Man United,Wolves,Away,4,11,0
+2024-2025_Aston Villa_Brighton,19,2024-12-30,Aston Villa,Brighton,Home,4,20,2
+2024-2025_Aston Villa_Brighton,19,2024-12-30,Brighton,Aston Villa,Away,4,13,2
+2024-2025_Brentford_Arsenal,19,2025-01-01,Brentford,Arsenal,Home,2,5,1
+2024-2025_Brentford_Arsenal,19,2025-01-01,Arsenal,Brentford,Away,5,14,3
+2024-2025_Crystal Palace_Southampton,19,2024-12-29,Crystal Palace,Southampton,Home,10,19,2
+2024-2025_Crystal Palace_Southampton,19,2024-12-29,Southampton,Crystal Palace,Away,3,7,1
+2024-2025_Everton_Nott'm Forest,19,2024-12-29,Everton,Nott'm Forest,Home,2,13,0
+2024-2025_Everton_Nott'm Forest,19,2024-12-29,Nott'm Forest,Everton,Away,7,11,2
+2024-2025_Fulham_Bournemouth,19,2024-12-29,Fulham,Bournemouth,Home,6,11,2
+2024-2025_Fulham_Bournemouth,19,2024-12-29,Bournemouth,Fulham,Away,9,16,2
+2024-2025_Ipswich_Chelsea,19,2024-12-30,Ipswich,Chelsea,Home,6,9,2
+2024-2025_Ipswich_Chelsea,19,2024-12-30,Chelsea,Ipswich,Away,5,20,0
+2024-2025_Leicester_Man City,19,2024-12-29,Leicester,Man City,Home,4,11,0
+2024-2025_Leicester_Man City,19,2024-12-29,Man City,Leicester,Away,5,14,2
+2024-2025_Man United_Newcastle,19,2024-12-30,Man United,Newcastle,Home,0,10,0
+2024-2025_Man United_Newcastle,19,2024-12-30,Newcastle,Man United,Away,4,12,2
+2024-2025_Tottenham_Wolves,19,2024-12-29,Tottenham,Wolves,Home,3,13,2
+2024-2025_Tottenham_Wolves,19,2024-12-29,Wolves,Tottenham,Away,3,11,2
+2024-2025_West Ham_Liverpool,19,2024-12-29,West Ham,Liverpool,Home,0,7,0
+2024-2025_West Ham_Liverpool,19,2024-12-29,Liverpool,West Ham,Away,13,22,5
+2024-2025_Aston Villa_Leicester,20,2025-01-04,Aston Villa,Leicester,Home,5,13,2
+2024-2025_Aston Villa_Leicester,20,2025-01-04,Leicester,Aston Villa,Away,2,4,1
+2024-2025_Bournemouth_Everton,20,2025-01-04,Bournemouth,Everton,Home,8,19,1
+2024-2025_Bournemouth_Everton,20,2025-01-04,Everton,Bournemouth,Away,0,9,0
+2024-2025_Brighton_Arsenal,20,2025-01-04,Brighton,Arsenal,Home,4,11,1
+2024-2025_Brighton_Arsenal,20,2025-01-04,Arsenal,Brighton,Away,3,9,1
+2024-2025_Crystal Palace_Chelsea,20,2025-01-04,Crystal Palace,Chelsea,Home,6,13,1
+2024-2025_Crystal Palace_Chelsea,20,2025-01-04,Chelsea,Crystal Palace,Away,1,15,1
+2024-2025_Fulham_Ipswich,20,2025-01-05,Fulham,Ipswich,Home,4,15,2
+2024-2025_Fulham_Ipswich,20,2025-01-05,Ipswich,Fulham,Away,3,7,2
+2024-2025_Liverpool_Man United,20,2025-01-05,Liverpool,Man United,Home,6,19,2
+2024-2025_Liverpool_Man United,20,2025-01-05,Man United,Liverpool,Away,4,13,2
+2024-2025_Man City_West Ham,20,2025-01-04,Man City,West Ham,Home,7,10,4
+2024-2025_Man City_West Ham,20,2025-01-04,West Ham,Man City,Away,4,17,1
+2024-2025_Southampton_Brentford,20,2025-01-04,Southampton,Brentford,Home,1,8,0
+2024-2025_Southampton_Brentford,20,2025-01-04,Brentford,Southampton,Away,11,20,5
+2024-2025_Tottenham_Newcastle,20,2025-01-04,Tottenham,Newcastle,Home,4,13,1
+2024-2025_Tottenham_Newcastle,20,2025-01-04,Newcastle,Tottenham,Away,4,14,2
+2024-2025_Wolves_Nott'm Forest,20,2025-01-06,Wolves,Nott'm Forest,Home,6,13,0
+2024-2025_Wolves_Nott'm Forest,20,2025-01-06,Nott'm Forest,Wolves,Away,3,11,3
+2024-2025_Arsenal_Tottenham,21,2025-01-15,Arsenal,Tottenham,Home,4,14,2
+2024-2025_Arsenal_Tottenham,21,2025-01-15,Tottenham,Arsenal,Away,2,10,1
+2024-2025_Brentford_Man City,21,2025-01-14,Brentford,Man City,Home,6,18,2
+2024-2025_Brentford_Man City,21,2025-01-14,Man City,Brentford,Away,8,21,2
+2024-2025_Chelsea_Bournemouth,21,2025-01-14,Chelsea,Bournemouth,Home,10,26,2
+2024-2025_Chelsea_Bournemouth,21,2025-01-14,Bournemouth,Chelsea,Away,3,7,2
+2024-2025_Everton_Aston Villa,21,2025-01-15,Everton,Aston Villa,Home,3,10,0
+2024-2025_Everton_Aston Villa,21,2025-01-15,Aston Villa,Everton,Away,3,11,1
+2024-2025_Ipswich_Brighton,21,2025-01-16,Ipswich,Brighton,Home,3,5,0
+2024-2025_Ipswich_Brighton,21,2025-01-16,Brighton,Ipswich,Away,5,11,2
+2024-2025_Leicester_Crystal Palace,21,2025-01-15,Leicester,Crystal Palace,Home,4,21,0
+2024-2025_Leicester_Crystal Palace,21,2025-01-15,Crystal Palace,Leicester,Away,4,9,2
+2024-2025_Man United_Southampton,21,2025-01-16,Man United,Southampton,Home,9,23,3
+2024-2025_Man United_Southampton,21,2025-01-16,Southampton,Man United,Away,5,13,1
+2024-2025_Newcastle_Wolves,21,2025-01-15,Newcastle,Wolves,Home,5,17,3
+2024-2025_Newcastle_Wolves,21,2025-01-15,Wolves,Newcastle,Away,7,13,0
+2024-2025_Nott'm Forest_Liverpool,21,2025-01-14,Nott'm Forest,Liverpool,Home,3,6,1
+2024-2025_Nott'm Forest_Liverpool,21,2025-01-14,Liverpool,Nott'm Forest,Away,7,23,1
+2024-2025_West Ham_Fulham,21,2025-01-14,West Ham,Fulham,Home,3,4,3
+2024-2025_West Ham_Fulham,21,2025-01-14,Fulham,West Ham,Away,5,21,2
+2024-2025_Arsenal_Aston Villa,22,2025-01-18,Arsenal,Aston Villa,Home,6,18,2
+2024-2025_Arsenal_Aston Villa,22,2025-01-18,Aston Villa,Arsenal,Away,4,8,2
+2024-2025_Brentford_Liverpool,22,2025-01-18,Brentford,Liverpool,Home,6,11,0
+2024-2025_Brentford_Liverpool,22,2025-01-18,Liverpool,Brentford,Away,8,37,2
+2024-2025_Chelsea_Wolves,22,2025-01-20,Chelsea,Wolves,Home,7,19,3
+2024-2025_Chelsea_Wolves,22,2025-01-20,Wolves,Chelsea,Away,4,9,1
+2024-2025_Everton_Tottenham,22,2025-01-19,Everton,Tottenham,Home,6,12,3
+2024-2025_Everton_Tottenham,22,2025-01-19,Tottenham,Everton,Away,6,11,2
+2024-2025_Ipswich_Man City,22,2025-01-19,Ipswich,Man City,Home,4,8,0
+2024-2025_Ipswich_Man City,22,2025-01-19,Man City,Ipswich,Away,9,17,6
+2024-2025_Leicester_Fulham,22,2025-01-18,Leicester,Fulham,Home,4,8,0
+2024-2025_Leicester_Fulham,22,2025-01-18,Fulham,Leicester,Away,2,17,2
+2024-2025_Man United_Brighton,22,2025-01-19,Man United,Brighton,Home,1,10,1
+2024-2025_Man United_Brighton,22,2025-01-19,Brighton,Man United,Away,3,6,3
+2024-2025_Newcastle_Bournemouth,22,2025-01-18,Newcastle,Bournemouth,Home,5,13,1
+2024-2025_Newcastle_Bournemouth,22,2025-01-18,Bournemouth,Newcastle,Away,10,19,4
+2024-2025_Nott'm Forest_Southampton,22,2025-01-19,Nott'm Forest,Southampton,Home,5,14,3
+2024-2025_Nott'm Forest_Southampton,22,2025-01-19,Southampton,Nott'm Forest,Away,4,10,2
+2024-2025_West Ham_Crystal Palace,22,2025-01-18,West Ham,Crystal Palace,Home,0,7,0
+2024-2025_West Ham_Crystal Palace,22,2025-01-18,Crystal Palace,West Ham,Away,7,12,2
+2024-2025_Aston Villa_West Ham,23,2025-01-26,Aston Villa,West Ham,Home,4,14,1
+2024-2025_Aston Villa_West Ham,23,2025-01-26,West Ham,Aston Villa,Away,4,14,1
+2024-2025_Bournemouth_Nott'm Forest,23,2025-01-25,Bournemouth,Nott'm Forest,Home,10,16,5
+2024-2025_Bournemouth_Nott'm Forest,23,2025-01-25,Nott'm Forest,Bournemouth,Away,4,18,0
+2024-2025_Brighton_Everton,23,2025-01-25,Brighton,Everton,Home,1,16,0
+2024-2025_Brighton_Everton,23,2025-01-25,Everton,Brighton,Away,1,3,1
+2024-2025_Crystal Palace_Brentford,23,2025-01-26,Crystal Palace,Brentford,Home,5,16,1
+2024-2025_Crystal Palace_Brentford,23,2025-01-26,Brentford,Crystal Palace,Away,6,13,2
+2024-2025_Fulham_Man United,23,2025-01-26,Fulham,Man United,Home,3,9,0
+2024-2025_Fulham_Man United,23,2025-01-26,Man United,Fulham,Away,1,4,1
+2024-2025_Liverpool_Ipswich,23,2025-01-25,Liverpool,Ipswich,Home,6,16,4
+2024-2025_Liverpool_Ipswich,23,2025-01-25,Ipswich,Liverpool,Away,3,3,1
+2024-2025_Man City_Chelsea,23,2025-01-25,Man City,Chelsea,Home,6,15,3
+2024-2025_Man City_Chelsea,23,2025-01-25,Chelsea,Man City,Away,4,10,1
+2024-2025_Southampton_Newcastle,23,2025-01-25,Southampton,Newcastle,Home,5,12,1
+2024-2025_Southampton_Newcastle,23,2025-01-25,Newcastle,Southampton,Away,9,17,3
+2024-2025_Tottenham_Leicester,23,2025-01-26,Tottenham,Leicester,Home,6,15,1
+2024-2025_Tottenham_Leicester,23,2025-01-26,Leicester,Tottenham,Away,3,12,2
+2024-2025_Wolves_Arsenal,23,2025-01-25,Wolves,Arsenal,Home,4,9,0
+2024-2025_Wolves_Arsenal,23,2025-01-25,Arsenal,Wolves,Away,3,9,1
+2024-2025_Arsenal_Man City,24,2025-02-02,Arsenal,Man City,Home,7,12,5
+2024-2025_Arsenal_Man City,24,2025-02-02,Man City,Arsenal,Away,4,7,1
+2024-2025_Bournemouth_Liverpool,24,2025-02-01,Bournemouth,Liverpool,Home,3,14,0
+2024-2025_Bournemouth_Liverpool,24,2025-02-01,Liverpool,Bournemouth,Away,7,19,2
+2024-2025_Brentford_Tottenham,24,2025-02-02,Brentford,Tottenham,Home,4,20,0
+2024-2025_Brentford_Tottenham,24,2025-02-02,Tottenham,Brentford,Away,2,13,2
+2024-2025_Chelsea_West Ham,24,2025-02-03,Chelsea,West Ham,Home,3,22,2
+2024-2025_Chelsea_West Ham,24,2025-02-03,West Ham,Chelsea,Away,5,14,1
+2024-2025_Everton_Leicester,24,2025-02-01,Everton,Leicester,Home,7,13,4
+2024-2025_Everton_Leicester,24,2025-02-01,Leicester,Everton,Away,1,9,0
+2024-2025_Ipswich_Southampton,24,2025-02-01,Ipswich,Southampton,Home,6,15,1
+2024-2025_Ipswich_Southampton,24,2025-02-01,Southampton,Ipswich,Away,4,9,2
+2024-2025_Man United_Crystal Palace,24,2025-02-02,Man United,Crystal Palace,Home,2,17,0
+2024-2025_Man United_Crystal Palace,24,2025-02-02,Crystal Palace,Man United,Away,3,11,2
+2024-2025_Newcastle_Fulham,24,2025-02-01,Newcastle,Fulham,Home,4,11,1
+2024-2025_Newcastle_Fulham,24,2025-02-01,Fulham,Newcastle,Away,4,15,2
+2024-2025_Nott'm Forest_Brighton,24,2025-02-01,Nott'm Forest,Brighton,Home,9,14,7
+2024-2025_Nott'm Forest_Brighton,24,2025-02-01,Brighton,Nott'm Forest,Away,5,10,0
+2024-2025_Wolves_Aston Villa,24,2025-02-01,Wolves,Aston Villa,Home,5,8,2
+2024-2025_Wolves_Aston Villa,24,2025-02-01,Aston Villa,Wolves,Away,3,10,0
+2024-2025_Aston Villa_Ipswich,25,2025-02-15,Aston Villa,Ipswich,Home,6,25,1
+2024-2025_Aston Villa_Ipswich,25,2025-02-15,Ipswich,Aston Villa,Away,3,4,1
+2024-2025_Brighton_Chelsea,25,2025-02-14,Brighton,Chelsea,Home,5,13,3
+2024-2025_Brighton_Chelsea,25,2025-02-14,Chelsea,Brighton,Away,0,8,0
+2024-2025_Crystal Palace_Everton,25,2025-02-15,Crystal Palace,Everton,Home,6,17,1
+2024-2025_Crystal Palace_Everton,25,2025-02-15,Everton,Crystal Palace,Away,6,11,2
+2024-2025_Fulham_Nott'm Forest,25,2025-02-15,Fulham,Nott'm Forest,Home,10,24,2
+2024-2025_Fulham_Nott'm Forest,25,2025-02-15,Nott'm Forest,Fulham,Away,2,8,1
+2024-2025_Leicester_Arsenal,25,2025-02-15,Leicester,Arsenal,Home,2,6,0
+2024-2025_Leicester_Arsenal,25,2025-02-15,Arsenal,Leicester,Away,5,11,2
+2024-2025_Liverpool_Wolves,25,2025-02-16,Liverpool,Wolves,Home,3,10,2
+2024-2025_Liverpool_Wolves,25,2025-02-16,Wolves,Liverpool,Away,4,16,1
+2024-2025_Man City_Newcastle,25,2025-02-15,Man City,Newcastle,Home,7,11,4
+2024-2025_Man City_Newcastle,25,2025-02-15,Newcastle,Man City,Away,1,3,0
+2024-2025_Southampton_Bournemouth,25,2025-02-15,Southampton,Bournemouth,Home,4,11,1
+2024-2025_Southampton_Bournemouth,25,2025-02-15,Bournemouth,Southampton,Away,7,14,3
+2024-2025_Tottenham_Man United,25,2025-02-16,Tottenham,Man United,Home,7,22,1
+2024-2025_Tottenham_Man United,25,2025-02-16,Man United,Tottenham,Away,6,16,0
+2024-2025_West Ham_Brentford,25,2025-02-15,West Ham,Brentford,Home,3,13,0
+2024-2025_West Ham_Brentford,25,2025-02-15,Brentford,West Ham,Away,5,14,1
+2024-2025_Arsenal_West Ham,26,2025-02-22,Arsenal,West Ham,Home,2,20,0
+2024-2025_Arsenal_West Ham,26,2025-02-22,West Ham,Arsenal,Away,2,5,1
+2024-2025_Aston Villa_Chelsea,26,2025-02-22,Aston Villa,Chelsea,Home,6,12,2
+2024-2025_Aston Villa_Chelsea,26,2025-02-22,Chelsea,Aston Villa,Away,7,15,1
+2024-2025_Bournemouth_Wolves,26,2025-02-22,Bournemouth,Wolves,Home,3,8,0
+2024-2025_Bournemouth_Wolves,26,2025-02-22,Wolves,Bournemouth,Away,5,13,1
+2024-2025_Everton_Man United,26,2025-02-22,Everton,Man United,Home,8,9,2
+2024-2025_Everton_Man United,26,2025-02-22,Man United,Everton,Away,3,9,2
+2024-2025_Fulham_Crystal Palace,26,2025-02-22,Fulham,Crystal Palace,Home,0,10,0
+2024-2025_Fulham_Crystal Palace,26,2025-02-22,Crystal Palace,Fulham,Away,5,10,2
+2024-2025_Ipswich_Tottenham,26,2025-02-22,Ipswich,Tottenham,Home,5,17,1
+2024-2025_Ipswich_Tottenham,26,2025-02-22,Tottenham,Ipswich,Away,6,10,4
+2024-2025_Leicester_Brentford,26,2025-02-21,Leicester,Brentford,Home,3,8,0
+2024-2025_Leicester_Brentford,26,2025-02-21,Brentford,Leicester,Away,6,14,4
+2024-2025_Man City_Liverpool,26,2025-02-23,Man City,Liverpool,Home,5,16,0
+2024-2025_Man City_Liverpool,26,2025-02-23,Liverpool,Man City,Away,4,8,2
+2024-2025_Newcastle_Nott'm Forest,26,2025-02-23,Newcastle,Nott'm Forest,Home,5,13,4
+2024-2025_Newcastle_Nott'm Forest,26,2025-02-23,Nott'm Forest,Newcastle,Away,5,17,3
+2024-2025_Southampton_Brighton,26,2025-02-22,Southampton,Brighton,Home,1,6,0
+2024-2025_Southampton_Brighton,26,2025-02-22,Brighton,Southampton,Away,12,18,4
+2024-2025_Brentford_Everton,27,2025-02-26,Brentford,Everton,Home,3,12,1
+2024-2025_Brentford_Everton,27,2025-02-26,Everton,Brentford,Away,4,14,1
+2024-2025_Brighton_Bournemouth,27,2025-02-25,Brighton,Bournemouth,Home,4,11,2
+2024-2025_Brighton_Bournemouth,27,2025-02-25,Bournemouth,Brighton,Away,5,19,1
+2024-2025_Chelsea_Southampton,27,2025-02-25,Chelsea,Southampton,Home,10,19,4
+2024-2025_Chelsea_Southampton,27,2025-02-25,Southampton,Chelsea,Away,2,7,0
+2024-2025_Crystal Palace_Aston Villa,27,2025-02-25,Crystal Palace,Aston Villa,Home,6,19,4
+2024-2025_Crystal Palace_Aston Villa,27,2025-02-25,Aston Villa,Crystal Palace,Away,2,6,1
+2024-2025_Liverpool_Newcastle,27,2025-02-26,Liverpool,Newcastle,Home,3,12,2
+2024-2025_Liverpool_Newcastle,27,2025-02-26,Newcastle,Liverpool,Away,0,3,0
+2024-2025_Man United_Ipswich,27,2025-02-26,Man United,Ipswich,Home,6,10,3
+2024-2025_Man United_Ipswich,27,2025-02-26,Ipswich,Man United,Away,3,12,2
+2024-2025_Nott'm Forest_Arsenal,27,2025-02-26,Nott'm Forest,Arsenal,Home,2,6,0
+2024-2025_Nott'm Forest_Arsenal,27,2025-02-26,Arsenal,Nott'm Forest,Away,1,13,0
+2024-2025_Tottenham_Man City,27,2025-02-26,Tottenham,Man City,Home,6,11,0
+2024-2025_Tottenham_Man City,27,2025-02-26,Man City,Tottenham,Away,5,12,1
+2024-2025_West Ham_Leicester,27,2025-02-27,West Ham,Leicester,Home,2,8,2
+2024-2025_West Ham_Leicester,27,2025-02-27,Leicester,West Ham,Away,2,10,0
+2024-2025_Wolves_Fulham,27,2025-02-25,Wolves,Fulham,Home,5,18,1
+2024-2025_Wolves_Fulham,27,2025-02-25,Fulham,Wolves,Away,5,11,2
+2024-2025_Brentford_Aston Villa,28,2025-03-08,Brentford,Aston Villa,Home,3,13,0
+2024-2025_Brentford_Aston Villa,28,2025-03-08,Aston Villa,Brentford,Away,4,12,1
+2024-2025_Brighton_Fulham,28,2025-03-08,Brighton,Fulham,Home,4,9,2
+2024-2025_Brighton_Fulham,28,2025-03-08,Fulham,Brighton,Away,1,6,1
+2024-2025_Chelsea_Leicester,28,2025-03-09,Chelsea,Leicester,Home,7,20,1
+2024-2025_Chelsea_Leicester,28,2025-03-09,Leicester,Chelsea,Away,3,3,0
+2024-2025_Crystal Palace_Ipswich,28,2025-03-08,Crystal Palace,Ipswich,Home,4,19,1
+2024-2025_Crystal Palace_Ipswich,28,2025-03-08,Ipswich,Crystal Palace,Away,8,15,0
+2024-2025_Liverpool_Southampton,28,2025-03-08,Liverpool,Southampton,Home,7,28,3
+2024-2025_Liverpool_Southampton,28,2025-03-08,Southampton,Liverpool,Away,4,6,1
+2024-2025_Man United_Arsenal,28,2025-03-09,Man United,Arsenal,Home,6,10,1
+2024-2025_Man United_Arsenal,28,2025-03-09,Arsenal,Man United,Away,6,17,1
+2024-2025_Nott'm Forest_Man City,28,2025-03-08,Nott'm Forest,Man City,Home,4,9,1
+2024-2025_Nott'm Forest_Man City,28,2025-03-08,Man City,Nott'm Forest,Away,3,14,0
+2024-2025_Tottenham_Bournemouth,28,2025-03-09,Tottenham,Bournemouth,Home,4,12,2
+2024-2025_Tottenham_Bournemouth,28,2025-03-09,Bournemouth,Tottenham,Away,8,17,2
+2024-2025_West Ham_Newcastle,28,2025-03-10,West Ham,Newcastle,Home,2,9,0
+2024-2025_West Ham_Newcastle,28,2025-03-10,Newcastle,West Ham,Away,3,9,1
+2024-2025_Wolves_Everton,28,2025-03-08,Wolves,Everton,Home,3,11,1
+2024-2025_Wolves_Everton,28,2025-03-08,Everton,Wolves,Away,4,12,1
+2024-2025_Arsenal_Chelsea,29,2025-03-16,Arsenal,Chelsea,Home,4,12,1
+2024-2025_Arsenal_Chelsea,29,2025-03-16,Chelsea,Arsenal,Away,2,8,0
+2024-2025_Aston Villa_Liverpool,29,2025-02-19,Aston Villa,Liverpool,Home,4,9,2
+2024-2025_Aston Villa_Liverpool,29,2025-02-19,Liverpool,Aston Villa,Away,3,17,2
+2024-2025_Bournemouth_Brentford,29,2025-03-15,Bournemouth,Brentford,Home,5,17,1
+2024-2025_Bournemouth_Brentford,29,2025-03-15,Brentford,Bournemouth,Away,4,10,2
+2024-2025_Everton_West Ham,29,2025-03-15,Everton,West Ham,Home,5,13,1
+2024-2025_Everton_West Ham,29,2025-03-15,West Ham,Everton,Away,5,10,1
+2024-2025_Fulham_Tottenham,29,2025-03-16,Fulham,Tottenham,Home,4,13,2
+2024-2025_Fulham_Tottenham,29,2025-03-16,Tottenham,Fulham,Away,4,12,0
+2024-2025_Ipswich_Nott'm Forest,29,2025-03-15,Ipswich,Nott'm Forest,Home,4,11,2
+2024-2025_Ipswich_Nott'm Forest,29,2025-03-15,Nott'm Forest,Ipswich,Away,6,11,4
+2024-2025_Leicester_Man United,29,2025-03-16,Leicester,Man United,Home,3,11,0
+2024-2025_Leicester_Man United,29,2025-03-16,Man United,Leicester,Away,5,18,3
+2024-2025_Man City_Brighton,29,2025-03-15,Man City,Brighton,Home,3,11,2
+2024-2025_Man City_Brighton,29,2025-03-15,Brighton,Man City,Away,3,15,2
+2024-2025_Newcastle_Crystal Palace,29,2025-04-16,Newcastle,Crystal Palace,Home,7,14,5
+2024-2025_Newcastle_Crystal Palace,29,2025-04-16,Crystal Palace,Newcastle,Away,4,11,0
+2024-2025_Southampton_Wolves,29,2025-03-15,Southampton,Wolves,Home,3,10,1
+2024-2025_Southampton_Wolves,29,2025-03-15,Wolves,Southampton,Away,3,5,2
+2024-2025_Arsenal_Fulham,30,2025-04-01,Arsenal,Fulham,Home,4,17,2
+2024-2025_Arsenal_Fulham,30,2025-04-01,Fulham,Arsenal,Away,3,9,1
+2024-2025_Bournemouth_Ipswich,30,2025-04-02,Bournemouth,Ipswich,Home,7,24,1
+2024-2025_Bournemouth_Ipswich,30,2025-04-02,Ipswich,Bournemouth,Away,2,10,2
+2024-2025_Brighton_Aston Villa,30,2025-04-02,Brighton,Aston Villa,Home,4,11,0
+2024-2025_Brighton_Aston Villa,30,2025-04-02,Aston Villa,Brighton,Away,5,8,3
+2024-2025_Chelsea_Tottenham,30,2025-04-03,Chelsea,Tottenham,Home,5,11,1
+2024-2025_Chelsea_Tottenham,30,2025-04-03,Tottenham,Chelsea,Away,2,8,0
+2024-2025_Liverpool_Everton,30,2025-04-02,Liverpool,Everton,Home,3,17,1
+2024-2025_Liverpool_Everton,30,2025-04-02,Everton,Liverpool,Away,0,5,0
+2024-2025_Man City_Leicester,30,2025-04-02,Man City,Leicester,Home,5,18,2
+2024-2025_Man City_Leicester,30,2025-04-02,Leicester,Man City,Away,0,2,0
+2024-2025_Newcastle_Brentford,30,2025-04-02,Newcastle,Brentford,Home,4,21,2
+2024-2025_Newcastle_Brentford,30,2025-04-02,Brentford,Newcastle,Away,3,12,1
+2024-2025_Nott'm Forest_Man United,30,2025-04-01,Nott'm Forest,Man United,Home,2,8,1
+2024-2025_Nott'm Forest_Man United,30,2025-04-01,Man United,Nott'm Forest,Away,6,23,0
+2024-2025_Southampton_Crystal Palace,30,2025-04-02,Southampton,Crystal Palace,Home,2,8,1
+2024-2025_Southampton_Crystal Palace,30,2025-04-02,Crystal Palace,Southampton,Away,3,9,1
+2024-2025_Wolves_West Ham,30,2025-04-01,Wolves,West Ham,Home,2,9,1
+2024-2025_Wolves_West Ham,30,2025-04-01,West Ham,Wolves,Away,1,10,0
+2024-2025_Aston Villa_Nott'm Forest,31,2025-04-05,Aston Villa,Nott'm Forest,Home,8,17,2
+2024-2025_Aston Villa_Nott'm Forest,31,2025-04-05,Nott'm Forest,Aston Villa,Away,3,19,1
+2024-2025_Brentford_Chelsea,31,2025-04-06,Brentford,Chelsea,Home,2,9,0
+2024-2025_Brentford_Chelsea,31,2025-04-06,Chelsea,Brentford,Away,5,21,0
+2024-2025_Crystal Palace_Brighton,31,2025-04-05,Crystal Palace,Brighton,Home,3,8,2
+2024-2025_Crystal Palace_Brighton,31,2025-04-05,Brighton,Crystal Palace,Away,5,11,1
+2024-2025_Everton_Arsenal,31,2025-04-05,Everton,Arsenal,Home,2,5,1
+2024-2025_Everton_Arsenal,31,2025-04-05,Arsenal,Everton,Away,5,14,1
+2024-2025_Fulham_Liverpool,31,2025-04-06,Fulham,Liverpool,Home,6,12,3
+2024-2025_Fulham_Liverpool,31,2025-04-06,Liverpool,Fulham,Away,6,14,2
+2024-2025_Ipswich_Wolves,31,2025-04-05,Ipswich,Wolves,Home,2,6,1
+2024-2025_Ipswich_Wolves,31,2025-04-05,Wolves,Ipswich,Away,7,22,2
+2024-2025_Leicester_Newcastle,31,2025-04-07,Leicester,Newcastle,Home,2,7,0
+2024-2025_Leicester_Newcastle,31,2025-04-07,Newcastle,Leicester,Away,5,16,3
+2024-2025_Man United_Man City,31,2025-04-06,Man United,Man City,Home,2,13,0
+2024-2025_Man United_Man City,31,2025-04-06,Man City,Man United,Away,5,9,0
+2024-2025_Tottenham_Southampton,31,2025-04-06,Tottenham,Southampton,Home,8,13,3
+2024-2025_Tottenham_Southampton,31,2025-04-06,Southampton,Tottenham,Away,4,12,1
+2024-2025_West Ham_Bournemouth,31,2025-04-05,West Ham,Bournemouth,Home,3,9,2
+2024-2025_West Ham_Bournemouth,31,2025-04-05,Bournemouth,West Ham,Away,4,11,2
+2024-2025_Arsenal_Brentford,32,2025-04-12,Arsenal,Brentford,Home,3,14,1
+2024-2025_Arsenal_Brentford,32,2025-04-12,Brentford,Arsenal,Away,2,3,1
+2024-2025_Bournemouth_Fulham,32,2025-04-14,Bournemouth,Fulham,Home,3,12,1
+2024-2025_Bournemouth_Fulham,32,2025-04-14,Fulham,Bournemouth,Away,7,12,0
+2024-2025_Brighton_Leicester,32,2025-04-12,Brighton,Leicester,Home,7,21,2
+2024-2025_Brighton_Leicester,32,2025-04-12,Leicester,Brighton,Away,6,15,2
+2024-2025_Chelsea_Ipswich,32,2025-04-13,Chelsea,Ipswich,Home,9,34,2
+2024-2025_Chelsea_Ipswich,32,2025-04-13,Ipswich,Chelsea,Away,4,13,2
+2024-2025_Liverpool_West Ham,32,2025-04-13,Liverpool,West Ham,Home,6,15,2
+2024-2025_Liverpool_West Ham,32,2025-04-13,West Ham,Liverpool,Away,4,11,1
+2024-2025_Man City_Crystal Palace,32,2025-04-12,Man City,Crystal Palace,Home,9,21,5
+2024-2025_Man City_Crystal Palace,32,2025-04-12,Crystal Palace,Man City,Away,3,8,2
+2024-2025_Newcastle_Man United,32,2025-04-13,Newcastle,Man United,Home,6,13,4
+2024-2025_Newcastle_Man United,32,2025-04-13,Man United,Newcastle,Away,5,9,1
+2024-2025_Nott'm Forest_Everton,32,2025-04-12,Nott'm Forest,Everton,Home,5,10,0
+2024-2025_Nott'm Forest_Everton,32,2025-04-12,Everton,Nott'm Forest,Away,5,13,1
+2024-2025_Southampton_Aston Villa,32,2025-04-12,Southampton,Aston Villa,Home,2,7,0
+2024-2025_Southampton_Aston Villa,32,2025-04-12,Aston Villa,Southampton,Away,10,25,3
+2024-2025_Wolves_Tottenham,32,2025-04-13,Wolves,Tottenham,Home,5,13,4
+2024-2025_Wolves_Tottenham,32,2025-04-13,Tottenham,Wolves,Away,4,11,2
+2024-2025_Aston Villa_Newcastle,33,2025-04-19,Aston Villa,Newcastle,Home,9,23,4
+2024-2025_Aston Villa_Newcastle,33,2025-04-19,Newcastle,Aston Villa,Away,3,10,1
+2024-2025_Brentford_Brighton,33,2025-04-19,Brentford,Brighton,Home,8,16,4
+2024-2025_Brentford_Brighton,33,2025-04-19,Brighton,Brentford,Away,3,12,2
+2024-2025_Crystal Palace_Bournemouth,33,2025-04-19,Crystal Palace,Bournemouth,Home,0,5,0
+2024-2025_Crystal Palace_Bournemouth,33,2025-04-19,Bournemouth,Crystal Palace,Away,4,15,0
+2024-2025_Everton_Man City,33,2025-04-19,Everton,Man City,Home,3,8,0
+2024-2025_Everton_Man City,33,2025-04-19,Man City,Everton,Away,7,12,2
+2024-2025_Fulham_Chelsea,33,2025-04-20,Fulham,Chelsea,Home,1,6,1
+2024-2025_Fulham_Chelsea,33,2025-04-20,Chelsea,Fulham,Away,8,13,2
+2024-2025_Ipswich_Arsenal,33,2025-04-20,Ipswich,Arsenal,Home,0,4,0
+2024-2025_Ipswich_Arsenal,33,2025-04-20,Arsenal,Ipswich,Away,7,24,4
+2024-2025_Leicester_Liverpool,33,2025-04-20,Leicester,Liverpool,Home,0,5,0
+2024-2025_Leicester_Liverpool,33,2025-04-20,Liverpool,Leicester,Away,10,28,1
+2024-2025_Man United_Wolves,33,2025-04-20,Man United,Wolves,Home,2,12,0
+2024-2025_Man United_Wolves,33,2025-04-20,Wolves,Man United,Away,2,4,1
+2024-2025_Tottenham_Nott'm Forest,33,2025-04-21,Tottenham,Nott'm Forest,Home,6,22,1
+2024-2025_Tottenham_Nott'm Forest,33,2025-04-21,Nott'm Forest,Tottenham,Away,3,4,2
+2024-2025_West Ham_Southampton,33,2025-04-19,West Ham,Southampton,Home,4,12,1
+2024-2025_West Ham_Southampton,33,2025-04-19,Southampton,West Ham,Away,4,15,1
+2024-2025_Arsenal_Crystal Palace,34,2025-04-23,Arsenal,Crystal Palace,Home,6,12,2
+2024-2025_Arsenal_Crystal Palace,34,2025-04-23,Crystal Palace,Arsenal,Away,4,15,2
+2024-2025_Bournemouth_Man United,34,2025-04-27,Bournemouth,Man United,Home,1,8,1
+2024-2025_Bournemouth_Man United,34,2025-04-27,Man United,Bournemouth,Away,6,25,1
+2024-2025_Brighton_West Ham,34,2025-04-26,Brighton,West Ham,Home,9,16,3
+2024-2025_Brighton_West Ham,34,2025-04-26,West Ham,Brighton,Away,4,12,2
+2024-2025_Chelsea_Everton,34,2025-04-26,Chelsea,Everton,Home,7,10,1
+2024-2025_Chelsea_Everton,34,2025-04-26,Everton,Chelsea,Away,3,6,0
+2024-2025_Liverpool_Tottenham,34,2025-04-27,Liverpool,Tottenham,Home,8,25,5
+2024-2025_Liverpool_Tottenham,34,2025-04-27,Tottenham,Liverpool,Away,3,8,1
+2024-2025_Man City_Aston Villa,34,2025-04-22,Man City,Aston Villa,Home,6,14,2
+2024-2025_Man City_Aston Villa,34,2025-04-22,Aston Villa,Man City,Away,3,7,1
+2024-2025_Newcastle_Ipswich,34,2025-04-26,Newcastle,Ipswich,Home,5,25,3
+2024-2025_Newcastle_Ipswich,34,2025-04-26,Ipswich,Newcastle,Away,0,4,0
+2024-2025_Nott'm Forest_Brentford,34,2025-05-01,Nott'm Forest,Brentford,Home,5,14,0
+2024-2025_Nott'm Forest_Brentford,34,2025-05-01,Brentford,Nott'm Forest,Away,3,11,2
+2024-2025_Southampton_Fulham,34,2025-04-26,Southampton,Fulham,Home,3,7,1
+2024-2025_Southampton_Fulham,34,2025-04-26,Fulham,Southampton,Away,5,26,2
+2024-2025_Wolves_Leicester,34,2025-04-26,Wolves,Leicester,Home,6,20,3
+2024-2025_Wolves_Leicester,34,2025-04-26,Leicester,Wolves,Away,2,8,0
+2024-2025_Arsenal_Bournemouth,35,2025-05-03,Arsenal,Bournemouth,Home,4,13,1
+2024-2025_Arsenal_Bournemouth,35,2025-05-03,Bournemouth,Arsenal,Away,2,9,2
+2024-2025_Aston Villa_Fulham,35,2025-05-03,Aston Villa,Fulham,Home,3,10,1
+2024-2025_Aston Villa_Fulham,35,2025-05-03,Fulham,Aston Villa,Away,3,11,0
+2024-2025_Brentford_Man United,35,2025-05-04,Brentford,Man United,Home,6,12,4
+2024-2025_Brentford_Man United,35,2025-05-04,Man United,Brentford,Away,5,14,3
+2024-2025_Brighton_Newcastle,35,2025-05-04,Brighton,Newcastle,Home,2,5,1
+2024-2025_Brighton_Newcastle,35,2025-05-04,Newcastle,Brighton,Away,5,13,1
+2024-2025_Chelsea_Liverpool,35,2025-05-04,Chelsea,Liverpool,Home,7,17,3
+2024-2025_Chelsea_Liverpool,35,2025-05-04,Liverpool,Chelsea,Away,2,11,1
+2024-2025_Crystal Palace_Nott'm Forest,35,2025-05-05,Crystal Palace,Nott'm Forest,Home,3,20,1
+2024-2025_Crystal Palace_Nott'm Forest,35,2025-05-05,Nott'm Forest,Crystal Palace,Away,4,12,1
+2024-2025_Everton_Ipswich,35,2025-05-03,Everton,Ipswich,Home,3,8,2
+2024-2025_Everton_Ipswich,35,2025-05-03,Ipswich,Everton,Away,5,12,2
+2024-2025_Leicester_Southampton,35,2025-05-03,Leicester,Southampton,Home,4,14,2
+2024-2025_Leicester_Southampton,35,2025-05-03,Southampton,Leicester,Away,2,8,0
+2024-2025_Man City_Wolves,35,2025-05-02,Man City,Wolves,Home,2,9,1
+2024-2025_Man City_Wolves,35,2025-05-02,Wolves,Man City,Away,1,6,0
+2024-2025_West Ham_Tottenham,35,2025-05-04,West Ham,Tottenham,Home,2,11,1
+2024-2025_West Ham_Tottenham,35,2025-05-04,Tottenham,West Ham,Away,2,7,1
+2024-2025_Bournemouth_Aston Villa,36,2025-05-10,Bournemouth,Aston Villa,Home,4,10,0
+2024-2025_Bournemouth_Aston Villa,36,2025-05-10,Aston Villa,Bournemouth,Away,3,6,1
+2024-2025_Fulham_Everton,36,2025-05-10,Fulham,Everton,Home,6,18,1
+2024-2025_Fulham_Everton,36,2025-05-10,Everton,Fulham,Away,7,11,3
+2024-2025_Ipswich_Brentford,36,2025-05-10,Ipswich,Brentford,Home,4,11,0
+2024-2025_Ipswich_Brentford,36,2025-05-10,Brentford,Ipswich,Away,5,15,1
+2024-2025_Liverpool_Arsenal,36,2025-05-11,Liverpool,Arsenal,Home,5,14,2
+2024-2025_Liverpool_Arsenal,36,2025-05-11,Arsenal,Liverpool,Away,7,15,2
+2024-2025_Man United_West Ham,36,2025-05-11,Man United,West Ham,Home,5,20,0
+2024-2025_Man United_West Ham,36,2025-05-11,West Ham,Man United,Away,4,9,2
+2024-2025_Newcastle_Chelsea,36,2025-05-11,Newcastle,Chelsea,Home,6,15,2
+2024-2025_Newcastle_Chelsea,36,2025-05-11,Chelsea,Newcastle,Away,3,10,0
+2024-2025_Nott'm Forest_Leicester,36,2025-05-11,Nott'm Forest,Leicester,Home,4,15,2
+2024-2025_Nott'm Forest_Leicester,36,2025-05-11,Leicester,Nott'm Forest,Away,6,10,2
+2024-2025_Southampton_Man City,36,2025-05-10,Southampton,Man City,Home,0,2,0
+2024-2025_Southampton_Man City,36,2025-05-10,Man City,Southampton,Away,5,26,0
+2024-2025_Tottenham_Crystal Palace,36,2025-05-11,Tottenham,Crystal Palace,Home,1,8,0
+2024-2025_Tottenham_Crystal Palace,36,2025-05-11,Crystal Palace,Tottenham,Away,10,23,2
+2024-2025_Wolves_Brighton,36,2025-05-10,Wolves,Brighton,Home,3,10,0
+2024-2025_Wolves_Brighton,36,2025-05-10,Brighton,Wolves,Away,2,7,2
+2024-2025_Arsenal_Newcastle,37,2025-05-18,Arsenal,Newcastle,Home,4,12,1
+2024-2025_Arsenal_Newcastle,37,2025-05-18,Newcastle,Arsenal,Away,5,14,0
+2024-2025_Aston Villa_Tottenham,37,2025-05-16,Aston Villa,Tottenham,Home,7,18,2
+2024-2025_Aston Villa_Tottenham,37,2025-05-16,Tottenham,Aston Villa,Away,1,3,0
+2024-2025_Brentford_Fulham,37,2025-05-18,Brentford,Fulham,Home,6,11,2
+2024-2025_Brentford_Fulham,37,2025-05-18,Fulham,Brentford,Away,7,16,3
+2024-2025_Brighton_Liverpool,37,2025-05-19,Brighton,Liverpool,Home,12,25,3
+2024-2025_Brighton_Liverpool,37,2025-05-19,Liverpool,Brighton,Away,5,18,2
+2024-2025_Chelsea_Man United,37,2025-05-16,Chelsea,Man United,Home,3,11,1
+2024-2025_Chelsea_Man United,37,2025-05-16,Man United,Chelsea,Away,1,4,0
+2024-2025_Crystal Palace_Wolves,37,2025-05-20,Crystal Palace,Wolves,Home,10,14,4
+2024-2025_Crystal Palace_Wolves,37,2025-05-20,Wolves,Crystal Palace,Away,3,12,2
+2024-2025_Everton_Southampton,37,2025-05-18,Everton,Southampton,Home,5,13,2
+2024-2025_Everton_Southampton,37,2025-05-18,Southampton,Everton,Away,2,6,0
+2024-2025_Leicester_Ipswich,37,2025-05-18,Leicester,Ipswich,Home,3,9,2
+2024-2025_Leicester_Ipswich,37,2025-05-18,Ipswich,Leicester,Away,2,20,0
+2024-2025_Man City_Bournemouth,37,2025-05-20,Man City,Bournemouth,Home,5,12,3
+2024-2025_Man City_Bournemouth,37,2025-05-20,Bournemouth,Man City,Away,2,8,1
+2024-2025_West Ham_Nott'm Forest,37,2025-05-18,West Ham,Nott'm Forest,Home,5,16,1
+2024-2025_West Ham_Nott'm Forest,37,2025-05-18,Nott'm Forest,West Ham,Away,5,10,2
+2024-2025_Bournemouth_Leicester,38,2025-05-25,Bournemouth,Leicester,Home,7,20,2
+2024-2025_Bournemouth_Leicester,38,2025-05-25,Leicester,Bournemouth,Away,0,3,0
+2024-2025_Fulham_Man City,38,2025-05-25,Fulham,Man City,Home,3,13,0
+2024-2025_Fulham_Man City,38,2025-05-25,Man City,Fulham,Away,5,20,2
+2024-2025_Ipswich_West Ham,38,2025-05-25,Ipswich,West Ham,Home,4,14,1
+2024-2025_Ipswich_West Ham,38,2025-05-25,West Ham,Ipswich,Away,6,10,3
+2024-2025_Liverpool_Crystal Palace,38,2025-05-25,Liverpool,Crystal Palace,Home,3,14,1
+2024-2025_Liverpool_Crystal Palace,38,2025-05-25,Crystal Palace,Liverpool,Away,5,8,1
+2024-2025_Man United_Aston Villa,38,2025-05-25,Man United,Aston Villa,Home,10,25,2
+2024-2025_Man United_Aston Villa,38,2025-05-25,Aston Villa,Man United,Away,1,6,0
+2024-2025_Newcastle_Everton,38,2025-05-25,Newcastle,Everton,Home,6,17,0
+2024-2025_Newcastle_Everton,38,2025-05-25,Everton,Newcastle,Away,6,14,1
+2024-2025_Nott'm Forest_Chelsea,38,2025-05-25,Nott'm Forest,Chelsea,Home,2,10,0
+2024-2025_Nott'm Forest_Chelsea,38,2025-05-25,Chelsea,Nott'm Forest,Away,2,6,1
+2024-2025_Southampton_Arsenal,38,2025-05-25,Southampton,Arsenal,Home,2,7,1
+2024-2025_Southampton_Arsenal,38,2025-05-25,Arsenal,Southampton,Away,8,23,2
+2024-2025_Tottenham_Brighton,38,2025-05-25,Tottenham,Brighton,Home,2,4,1
+2024-2025_Tottenham_Brighton,38,2025-05-25,Brighton,Tottenham,Away,8,23,4
+2024-2025_Wolves_Brentford,38,2025-05-25,Wolves,Brentford,Home,6,18,1
+2024-2025_Wolves_Brentford,38,2025-05-25,Brentford,Wolves,Away,7,13,1
